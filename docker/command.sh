@@ -35,3 +35,6 @@ ls /etc/pki/ca-trust/source/anchors/
 sudo update-ca-certificates
 
 trust list
+
+# Import CA vào trình duyệt chrome:
+# chrome://settings/certificates
