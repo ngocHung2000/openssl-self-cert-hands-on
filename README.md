@@ -34,3 +34,4 @@ Certificate Authority: The authority that authenticates the identity of individu
 Registration Authority: A subordinate CA that issues a certificate on the behalf of root CA for specific uses.
 SSL Certificate: The Data file that includes the public key and other information.
 Certificate Management System: The system which stores, validates and revokes certificates.
+
